@@ -1,0 +1,10 @@
+{
+  "name": "mono-actions-test",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "app-1",
+      "app-2"
+    ]
+  }
+}
