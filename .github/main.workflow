@@ -68,6 +68,6 @@ action "deploy" {
   args = ["env"]
   secrets = ["PHONY_SECRET"]
   env = {
-    PHONY_ENV = "foo"
+    PHONY_ENV = "foobar"
   }
 }
